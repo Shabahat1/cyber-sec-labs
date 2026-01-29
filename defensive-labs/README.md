@@ -1,0 +1,1 @@
+Focusing on the 'Blue Team' and builder side of cybersecurity. This directory contains projects dedicated to secure software development, infrastructure hardening, and defensive tooling. Here, I demonstrate how to architect systems that are resilient by design.
