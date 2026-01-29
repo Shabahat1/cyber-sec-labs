@@ -1,0 +1,1 @@
+Focusing on the 'Red Team' and offensive security operations. This directory documents my work in vulnerability assessment, penetration testing, and exploit analysis. I use these labs to understand attacker methodologies—specifically how to identify, verify, and document critical flaws before malicious actors do.
