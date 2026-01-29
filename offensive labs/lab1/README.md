@@ -1,4 +1,4 @@
-This script is a command-line port scanner designed to probe a target server for open ports. It utilizes Python's low-level networking interface to establish TCP connections, effectively simulating the initial steps of a network vulnerability assessment.
+This was my first ever lab related to CyberSecurity from TCM Security, This script is a command-line port scanner designed to probe a target server for open ports. It utilizes Python's low-level networking interface to establish TCP connections, effectively simulating the initial steps of a network vulnerability assessment.
 
 Key Features:
 
